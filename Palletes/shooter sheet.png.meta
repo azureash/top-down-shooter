@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 9280c771e55db234daf8b576d7e4e33b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5044038972862079929
+    second: player
+  - first:
+      213: -1252040566814192254
+    second: shooter sheet_1
+  - first:
+      213: 2208263352235762975
+    second: core
+  - first:
+      213: -2821874944571283014
+    second: shooter sheet_3
+  - first:
+      213: -4065103435240771753
+    second: enemy_respawn
+  - first:
+      213: 7328046594573515637
+    second: shooter sheet_5
+  - first:
+      213: 4303101482653356710
+    second: holder
+  - first:
+      213: -3136971680666031152
+    second: shooter sheet_7
+  - first:
+      213: -5325363969184304423
+    second: wall_1
+  - first:
+      213: 5265726364174128516
+    second: shooter sheet_9
+  - first:
+      213: -1206095927047524123
+    second: wall_2
+  - first:
+      213: -8455073760381400509
+    second: shooter sheet_11
+  - first:
+      213: 8498432261578619191
+    second: shooter sheet_12
+  - first:
+      213: -8902677227193207352
+    second: shooter sheet_13
+  - first:
+      213: -3498170332104972967
+    second: shooter sheet_14
+  - first:
+      213: 6749903943285703230
+    second: shooter sheet_15
+  - first:
+      213: -8754032114229469943
+    second: shooter sheet_16
+  - first:
+      213: 8457719520593792011
+    second: shooter sheet_17
+  - first:
+      213: -5759091586252633387
+    second: barrier
+  - first:
+      213: 2303162636764001377
+    second: shooter sheet_19
+  - first:
+      213: 7512497919625550901
+    second: stage
+  - first:
+      213: -348701453239220465
+    second: shooter sheet_21
+  - first:
+      213: 2169867357900231285
+    second: enemy
+  - first:
+      213: 4566667625030120473
+    second: shooter sheet_23
+  - first:
+      213: 3360451413434217710
+    second: shooter sheet_24
+  - first:
+      213: -4202396447447223299
+    second: shooter sheet_25
+  - first:
+      213: 5083538192276618318
+    second: shooter sheet_26
+  - first:
+      213: -8685791082600583287
+    second: shooter sheet_27
+  - first:
+      213: -6724181785209090282
+    second: shooter sheet_28
+  - first:
+      213: 9010580184082569896
+    second: shooter sheet_29
+  - first:
+      213: 5891426947904688776
+    second: shooter sheet_30
+  - first:
+      213: 1986630283334323229
+    second: shooter sheet_31
+  - first:
+      213: 1291424842111835029
+    second: shooter sheet_32
+  - first:
+      213: 3433540132942346902
+    second: shooter sheet_33
+  - first:
+      213: 8530425204784051242
+    second: shooter sheet_34
+  - first:
+      213: -5095221261559376590
+    second: shooter sheet_35
+  - first:
+      213: 6373325864901826087
+    second: shooter sheet_36
+  - first:
+      213: -4761028609974620962
+    second: shooter sheet_37
+  - first:
+      213: -377518887975318896
+    second: shooter sheet_38
+  - first:
+      213: 3541104874031255945
+    second: shooter sheet_39
+  - first:
+      213: 3930151902530669656
+    second: shooter sheet_40
+  - first:
+      213: 2235985179016444175
+    second: shooter sheet_41
+  - first:
+      213: 415204230119338974
+    second: shooter sheet_42
+  - first:
+      213: 1312375919384973319
+    second: shooter sheet_43
+  - first:
+      213: 7419587212758186317
+    second: shooter sheet_44
+  - first:
+      213: -8810261791504322806
+    second: shooter sheet_45
+  - first:
+      213: 943802697066464153
+    second: shooter sheet_46
+  - first:
+      213: 7158766161939601852
+    second: shooter sheet_47
+  - first:
+      213: -2243881543435573200
+    second: shooter sheet_48
+  - first:
+      213: 3838349370608228397
+    second: shooter sheet_49
+  - first:
+      213: 2177808579481602501
+    second: shooter sheet_50
+  - first:
+      213: 6924744306589111548
+    second: shooter sheet_51
+  - first:
+      213: -1431991768439031258
+    second: shooter sheet_52
+  - first:
+      213: 2833261488426529923
+    second: shooter sheet_53
+  - first:
+      213: 1885100204461183347
+    second: shooter sheet_54
+  - first:
+      213: -9003692318455233192
+    second: shooter sheet_55
+  - first:
+      213: 1394557432482251694
+    second: shooter sheet_56
+  - first:
+      213: -4127239313252158448
+    second: shooter sheet_57
+  - first:
+      213: -3343743924492666801
+    second: shooter sheet_58
+  - first:
+      213: -7189025710993615263
+    second: shooter sheet_59
+  - first:
+      213: 4974744664115092815
+    second: shooter sheet_60
+  - first:
+      213: 6120082708581121408
+    second: shooter sheet_61
+  - first:
+      213: -809755036949233118
+    second: shooter sheet_62
+  - first:
+      213: 2293307821892211533
+    second: shooter sheet_63
+  - first:
+      213: -3279200084503310262
+    second: shooter sheet_64
+  - first:
+      213: -2494134178228772464
+    second: shooter sheet_65
+  - first:
+      213: -6318984055861647714
+    second: shooter sheet_66
+  - first:
+      213: 722187088343785976
+    second: shooter sheet_67
+  - first:
+      213: 2012223466340022486
+    second: shooter sheet_68
+  - first:
+      213: -7125811483382050524
+    second: shooter sheet_69
+  - first:
+      213: 3396154940344519840
+    second: shooter sheet_70
+  - first:
+      213: 2665479111937383532
+    second: shooter sheet_71
+  - first:
+      213: 6369912437930112120
+    second: shooter sheet_72
+  - first:
+      213: -6702008406026767903
+    second: shooter sheet_73
+  - first:
+      213: -6705646214303123661
+    second: shooter sheet_74
+  - first:
+      213: 7245068409723490713
+    second: shooter sheet_75
+  - first:
+      213: 5352357620907519874
+    second: shooter sheet_76
+  - first:
+      213: 6661748761891437890
+    second: shooter sheet_77
+  - first:
+      213: -3044192679595464053
+    second: shooter sheet_78
+  - first:
+      213: -5090810469564025629
+    second: shooter sheet_79
+  - first:
+      213: 2274388730497009649
+    second: shooter sheet_80
+  - first:
+      213: 3713669220064824343
+    second: shooter sheet_81
+  - first:
+      213: 3741757506686693039
+    second: shooter sheet_82
+  - first:
+      213: -4473370314025621200
+    second: shooter sheet_83
+  - first:
+      213: 4650906878523003522
+    second: shooter sheet_84
+  - first:
+      213: -3006207959771381418
+    second: shooter sheet_85
+  - first:
+      213: 8483139771128939654
+    second: shooter sheet_86
+  - first:
+      213: 2605472960986417061
+    second: shooter sheet_87
+  - first:
+      213: 1120898715635798
+    second: shooter sheet_88
+  - first:
+      213: 8711357006252142222
+    second: shooter sheet_89
+  - first:
+      213: -7673138507514889780
+    second: shooter sheet_90
+  - first:
+      213: -7053823583913862459
+    second: shooter sheet_91
+  - first:
+      213: 3234530360364623359
+    second: shooter sheet_92
+  - first:
+      213: 4025017793374830810
+    second: shooter sheet_93
+  - first:
+      213: 2235358517717388046
+    second: shooter sheet_94
+  - first:
+      213: 8953069002704509770
+    second: stage
+  - first:
+      213: -2190050727120574497
+    second: shooter sheet_96
+  - first:
+      213: 5882034837411270820
+    second: shooter sheet_97
+  - first:
+      213: -2033019279258081934
+    second: shooter sheet_98
+  - first:
+      213: 5381739630335306906
+    second: shooter sheet_99
+  - first:
+      213: 7948887415912328005
+    second: shooter sheet_100
+  - first:
+      213: -1522018110677571090
+    second: shooter sheet_101
+  - first:
+      213: -869553415451870585
+    second: shooter sheet_102
+  - first:
+      213: -1543661056844844959
+    second: shooter sheet_103
+  - first:
+      213: 734865611910203174
+    second: shooter sheet_104
+  - first:
+      213: -1241447123861325820
+    second: shooter sheet_105
+  - first:
+      213: 8741739173160899185
+    second: shooter sheet_106
+  - first:
+      213: -4302439409774987529
+    second: shooter sheet_107
+  - first:
+      213: 4668905460659922858
+    second: shooter sheet_108
+  - first:
+      213: -2396588780833033452
+    second: shooter sheet_109
+  - first:
+      213: -8135464789350877719
+    second: shooter sheet_110
+  - first:
+      213: -6012849248352871513
+    second: shooter sheet_111
+  - first:
+      213: 630943332672850834
+    second: shooter sheet_112
+  - first:
+      213: -1660391910599643613
+    second: shooter sheet_113
+  - first:
+      213: 7940092724936537771
+    second: shooter sheet_114
+  - first:
+      213: 4293749599504459374
+    second: shooter sheet_115
+  - first:
+      213: -5585277856280054037
+    second: shooter sheet_116
+  - first:
+      213: -1257289384417405272
+    second: shooter sheet_117
+  - first:
+      213: -227504891927417519
+    second: shooter sheet_118
+  - first:
+      213: -6612733103490499832
+    second: shooter sheet_119
+  - first:
+      213: 8720627468275324378
+    second: shooter sheet_120
+  - first:
+      213: -2028218509415900006
+    second: shooter sheet_121
+  - first:
+      213: 7726370207535339529
+    second: shooter sheet_122
+  - first:
+      213: -3585084728537687482
+    second: shooter sheet_123
+  - first:
+      213: 8183441999131575127
+    second: shooter sheet_124
+  - first:
+      213: -8802544108084382538
+    second: shooter sheet_125
+  - first:
+      213: 336361434873815007
+    second: shooter sheet_126
+  - first:
+      213: -6810636515597380408
+    second: shooter sheet_127
+  - first:
+      213: 8558434820562348733
+    second: shooter sheet_128
+  - first:
+      213: 5528006982384056700
+    second: shooter sheet_129
+  - first:
+      213: 5518932649015781296
+    second: player
+  - first:
+      213: 5816309677464904990
+    second: shooter sheet_1
+  - first:
+      213: 8088439948037251112
+    second: core
+  - first:
+      213: 6817101893919989994
+    second: shooter sheet_3
+  - first:
+      213: 1591540016824691244
+    second: enemy_respawn
+  - first:
+      213: 2024200344648239429
+    second: shooter sheet_5
+  - first:
+      213: -4604545749831364966
+    second: holder
+  - first:
+      213: -7062626433681587317
+    second: shooter sheet_7
+  - first:
+      213: 5801468340106804103
+    second: wall_1
+  - first:
+      213: 8208698094268272227
+    second: shooter sheet_9
+  - first:
+      213: -5539168905294777371
+    second: wall_2
+  - first:
+      213: 4638828697163056920
+    second: shooter sheet_11
+  - first:
+      213: -8880908164745152913
+    second: shooter sheet_12
+  - first:
+      213: -2984388991328215208
+    second: shooter sheet_13
+  - first:
+      213: -3778744933181634127
+    second: shooter sheet_14
+  - first:
+      213: 7276141438183243212
+    second: shooter sheet_15
+  - first:
+      213: -4463728460979334901
+    second: shooter sheet_16
+  - first:
+      213: 4592526529746941363
+    second: shooter sheet_17
+  - first:
+      213: 7909576733164130711
+    second: barrier
+  - first:
+      213: -8352724372815483875
+    second: shooter sheet_19
+  - first:
+      213: 7223026959860465338
+    second: stage
+  - first:
+      213: -7713908353867895236
+    second: shooter sheet_21
+  - first:
+      213: 2984497002804470574
+    second: enemy
+  - first:
+      213: 8769745838979671862
+    second: shooter sheet_23
+  - first:
+      213: -153256830747159868
+    second: shooter sheet_24
+  - first:
+      213: -4622839173755831550
+    second: shooter sheet_25
+  - first:
+      213: -8072107416367629584
+    second: shooter sheet_26
+  - first:
+      213: -943036120615559874
+    second: shooter sheet_27
+  - first:
+      213: -7299151312545642034
+    second: shooter sheet_28
+  - first:
+      213: -3943477301643079060
+    second: shooter sheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b724e3f000379c40800000000000000
+      internalID: 5518932649015781296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1566f4e5dea7b050800000000000000
+      internalID: 5816309677464904990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 141
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e6d14749ef3070800000000000000
+      internalID: 8088439948037251112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06eb0dd063b9e50800000000000000
+      internalID: 6817101893919989994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_respawn
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aa7a48639461610800000000000000
+      internalID: 1591540016824691244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5494bf02d77671c10800000000000000
+      internalID: 2024200344648239429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holder
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e4445590e5910c0800000000000000
+      internalID: -4604545749831364966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83002f8da28cfd90800000000000000
+      internalID: -7062626433681587317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bbdb3c7b4f28050800000000000000
+      internalID: 5801468340106804103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4949dc672be170800000000000000
+      internalID: 8208698094268272227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f3097a3be023b0800000000000000
+      internalID: -5539168905294777371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ca4c5f1e606040800000000000000
+      internalID: 4638828697163056920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66bf75c31da0c480800000000000000
+      internalID: -8880908164745152913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9b4c36025596d0800000000000000
+      internalID: -2984388991328215208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c6e001833f8bc0800000000000000
+      internalID: -3778744933181634127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd796e561c0af460800000000000000
+      internalID: 7276141438183243212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0196855d96ad02c0800000000000000
+      internalID: -4463728460979334901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5bf1beb8eebbf30800000000000000
+      internalID: 4592526529746941363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79151ffc12674cd60800000000000000
+      internalID: 7909576733164130711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce5930079251c80800000000000000
+      internalID: -8352724372815483875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7d8130c85d3460800000000000000
+      internalID: 7223026959860465338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e29c1e831b2f490800000000000000
+      internalID: -7713908353867895236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e06526301b6920800000000000000
+      internalID: 2984497002804470574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637e7de506564b970800000000000000
+      internalID: 8769745838979671862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d9e379b58fddf0800000000000000
+      internalID: -153256830747159868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf58aa34068dfb0800000000000000
+      internalID: -4622839173755831550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7c9a921d1aff80800000000000000
+      internalID: -8072107416367629584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd85c05a9a9e2f0800000000000000
+      internalID: -943036120615559874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec904e5cd8434ba90800000000000000
+      internalID: -7299151312545642034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter sheet_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c629fbf9944f549c0800000000000000
+      internalID: -3943477301643079060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
